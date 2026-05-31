@@ -54,11 +54,6 @@ I designed and developed the entire full‑stack application including:
 - Handling role‑based access control (JWT authentication)
 - Managing state with React hooks and context API
 
-## 📸 Screenshots
-
-| Home Page | Order Placement | Admin Dashboard |
-|-----------|----------------|------------------|
-| (Add screenshot) | (Add screenshot) | (Add screenshot) |
 
 ## 🚀 Getting Started
 
